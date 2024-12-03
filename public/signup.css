@@ -1,0 +1,123 @@
+
+.sign{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1476329015157-BG815YVEBD02W92A59ZD/7591ab40459309.577feda663f0e.png);
+    
+    
+    background-color:black;
+    height:100vh;
+    width:100%;
+
+}
+.signup{
+    background-color:black;
+    padding:10px 10px 10px 10px;
+    text-align: center;
+    padding-top: 15px; 
+    border: 1px solid grey;
+    border-radius: 2%;
+    opacity: 0.5;
+    margin: auto;
+    padding: 10px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.form{
+    padding: 50px 50px 50px 50px; 
+}
+h2{
+    
+    color: blue;
+    font-size: 30px;
+    
+}
+
+.submit{
+    font-size: 16px;
+    height:35px;
+    width:80px;
+    border-radius: 1%;
+    
+    color:rgb(233, 244, 244);
+    background-color: brown;
+}
+.submit:hover{
+    background-color: blue;
+    opacity:0.9;
+}
+.field{
+    height:50px;
+}
+.field{
+    position: relative;
+    height: 45px;
+    width: 100%;
+    display: flex;
+    background: rgba(255,255,255,0.94);
+  }
+  .field span{
+    color: #222;
+    width: 40px;
+    line-height: 45px;
+  }
+  .field input{
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #222;
+    font-size: 16px;
+    font-family: 'Poppins',sans-serif;
+  }
+  .email{
+    height:50px;
+}
+.email{
+    position: relative;
+    height: 45px;
+    width: 100%;
+    display: flex;
+    background: rgba(255,255,255,0.94);
+  }
+  .email i{
+    color: #222;
+    width: 40px;
+    line-height: 45px;
+  }
+  .email input{
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #222;
+    font-size: 16px;
+    font-family: 'Poppins',sans-serif;
+  }
+  .password{
+    height:50px;
+}
+.password{
+    position: relative;
+    height: 45px;
+    width: 100%;
+    display: flex;
+    background: rgba(255,255,255,0.94);
+  }
+  .password i{
+    color: #222;
+    width: 40px;
+    line-height: 45px;
+  }
+  .password input{
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #222;
+    font-size: 16px;
+    font-family: 'Poppins',sans-serif;
+  }
